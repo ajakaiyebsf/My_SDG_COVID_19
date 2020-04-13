@@ -1,4 +1,5 @@
-const covid19ImpactEstimator = (data) => data;
+const covid19ImpactEstimator = (data) => ({
+data;
 {
 region: {
 name: "Africa",
