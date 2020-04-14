@@ -1,5 +1,4 @@
 const covid19ImpactEstimator = (data) => data;
- {
 region: {
 name: "Africa",
 avgAge: 19.7,
